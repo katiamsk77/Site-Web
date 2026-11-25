@@ -16,6 +16,6 @@ Site statique en HTML/CSS/JS, sans dépendance : il suffit de déposer les fichi
 Les adresses des pages reprennent celles de l'ancien site pour conserver le référencement.
 
 ## À compléter
-- Mentions légales : adresse, SIRET, hébergeur.
+- Mentions légales : hébergeur.
 - Photo : remplacer le visuel décoratif par une photo de Katia si souhaité.
 - Formulaire : il ouvre la messagerie du visiteur. Pour un envoi direct, brancher un service type Formspree.
